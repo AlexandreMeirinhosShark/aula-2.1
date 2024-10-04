@@ -1,1 +1,1 @@
-# aula-2.1
+# aula de Python com o professor Gil.
